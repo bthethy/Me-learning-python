@@ -1,2 +1,3 @@
 # Me-learning-python
-Some scripts I made as I learn python
+
+Random scripts I made whilst trying to learn Python. Feel free to try them out.
